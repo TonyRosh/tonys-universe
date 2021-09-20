@@ -424,6 +424,4 @@ import * as THREE from 'three';
 
   autoScroll();
 
-  console.log("CAMERAAAAA", camera.position)
-
 
