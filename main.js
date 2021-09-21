@@ -306,7 +306,7 @@ import * as THREE from 'three';
   const linkCubeTexture = new THREE.TextureLoader().load('https://i.imgur.com/RWn66Lw.jpg');
 
   function aboutMeLink() {
-    window.location = "https://tonyroscioli.com/about";
+    window.location = "https://tonyroscioli.com/";
   }
 
 
